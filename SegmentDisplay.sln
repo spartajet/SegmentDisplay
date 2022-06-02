@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SegmentDisplay", "SegmentDisplay\SegmentDisplay.csproj", "{6E292DD6-FBC5-4F49-8894-26550A802AF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SegmentDisplay.Test", "SegmentDisplay.Test\SegmentDisplay.Test.csproj", "{DECB0D06-6E14-4F40-8F4C-AB5643289A2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E292DD6-FBC5-4F49-8894-26550A802AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E292DD6-FBC5-4F49-8894-26550A802AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E292DD6-FBC5-4F49-8894-26550A802AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E292DD6-FBC5-4F49-8894-26550A802AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DECB0D06-6E14-4F40-8F4C-AB5643289A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECB0D06-6E14-4F40-8F4C-AB5643289A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECB0D06-6E14-4F40-8F4C-AB5643289A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECB0D06-6E14-4F40-8F4C-AB5643289A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
